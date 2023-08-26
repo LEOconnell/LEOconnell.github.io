@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+This blog will be used to share ideas & projects as I work through Data Science and Applied Statistics coursework at NC State University. Go Pack!
 
-Maybe say a some things about yourself.
+I am a marketing professional with 20+ years working in both corporate and nonprofit settings. I have research interests in social impact and technology innovation. 
 
-Or maybe what you plan to blog about.
+
