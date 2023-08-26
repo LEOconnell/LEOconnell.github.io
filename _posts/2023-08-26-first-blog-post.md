@@ -22,7 +22,7 @@ I have 20+ years working for a variety of organizations: large consumer goods an
 Currently, I lean more towards the statistician side of the Data Science team, and as a result, I am working to extend my knowledge of statistical methods. Over the years, I have wrangled a lot of data, completed a lot of exploratory analyses, and built dashboards and marketing systems to make data driven decisions. I have a life long love of math and a deep curiosity about statistical methods. I am looking forward to refreshing my hacking skills as I enter this GitHub world!
 
 ## References
-Khandelwal, A. (2023). Data Scientist vs. Statistician: What’s the Difference? Indeed.com. https://www.indeed.com/career-advice/finding-a-job/data-scientist-vs-statistician
+Khandelwal, A. (2023). Data Scientist vs. Statistician: What’s the Difference? Indeed.com. [Link:](https://www.indeed.com/career-advice/finding-a-job/data-scientist-vs-statistician)  https://www.indeed.com/career-advice/finding-a-job/data-scientist-vs-statistician
 
 Li, H. L. a. M. (2023, April 17). 1.5 Data Science Roles | Practitioner’s Guide to Data Science. https://scientistcafe.com/ids/data-science-roles#data-science-roles
 
