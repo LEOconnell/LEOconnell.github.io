@@ -8,7 +8,9 @@
      -Team <br>
      -Individual
    
-Posts with images are always better so here is a photo to kick things off:
+Posts with images are always better so here is a photo to kick things off: <br>
+![alt text](https://LEOconnell.github.io/images/frog2.png "Greetings")
+
 
 
 
