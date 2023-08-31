@@ -1,5 +1,18 @@
-This blog will be used to share ideas & projects as I work through Data Science and Applied Statistics coursework at NC State University. Go Pack!
+## Hello!
+#### This page has been created for _ST 558 - Data Science for Statisticians_  coursework at NC State University.  
 
-I am a marketing professional with 20+ years working in both corporate and nonprofit settings. I have research interests in social impact and technology innovation. 
+##### Posts to this page may include:
+1.   Blogs
+2.   Images 
+3.   Projects <br>
+     -Team <br>
+     -Individual
+   
+Posts with images are always better so here is a photo to kick things off:
+
+
+
+
+
 
 
