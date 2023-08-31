@@ -6,7 +6,8 @@ Posts with images are always better, so here is a photo to kick things off: <br>
 <img src="https://LEOconnell.github.io/images/frog2.png" width="200" />
 
 
-#### Index: Posts to this page may include:
+## Index
+#### Posts to this page may include:
 1.   Blogs
 2.   Images 
 3.   Projects <br>
