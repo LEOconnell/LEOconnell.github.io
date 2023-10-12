@@ -1,5 +1,7 @@
 # American Business Survey API
-A project using data from  U.S. Census Bureau surveys
+A project using data from  U.S. Census Bureau surveys.
+
+A link to project README: [https://leoconnell.github.io/ABS-API-Vignette/](https://leoconnell.github.io/ABS-API-Vignette/)
 
 ## Background
 This blog is about a project completed for NC State  ST-558, Data Science for Statisticians.  The purpose of the project was create a vignette demonstrating access to data via an API and subsequent exploratory data analysis.Specifically, the project includes steps to utlilize an APIs to access data, wrange the data into a usable form, and conduct a preliminary exploratory data analysis.  You can find this project on my repository called ABS-API-Vignette.  Additionally, the project was integrated with a GitHub repository from the start, enabling version control and publication in this environment. 
