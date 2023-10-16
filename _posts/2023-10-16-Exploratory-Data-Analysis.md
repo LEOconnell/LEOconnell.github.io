@@ -17,6 +17,7 @@ Examples of a broad research questions would be:
 - Do different schools have different performance on standardized curriculums?
   - What factors contribute to the differences?"
  
+EDA can be done using many tools using many methods. Below is a basic outline of my current EDA process that uses both numeric and graphical methods.
 
 ##  EDA Strategy
 
@@ -57,8 +58,10 @@ Several things should be noted while doing EDA.
 - Data anomalies  and outliers should be identified to consider proper handling in further analysis.
 - Opportunities to improve analysis of data through appropriate variable data transformations.
 - Identification of variables that may have multicollinearity
+- Evalute the data to see if it fits assumptions needed for planned models
 - And most importantly, identification of variables of interest that may be useful as inputs to models for inference or prediction.
-
+- Unexpected relationships! EDA is exploration - be open to finding the unexpected!
+  
 
 
 
