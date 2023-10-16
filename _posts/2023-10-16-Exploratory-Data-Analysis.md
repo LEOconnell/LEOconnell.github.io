@@ -10,7 +10,7 @@ Based on background from these readings, I will try to answer 3 questions which 
 ## The Art of the Science....
 As many authors, professors and data scientists have commented, EDA is an art. I believe it is an art that is shaped by the methods and tools available to the evaluator.  That being said, as I work my way through formal study of statistical methods and EDA processes, I find myself refining my EDA skills. 
 
-## Goals When performing EDA
+## Goals When Performing EDA
 EDA is the first step in turning data into insight.  With that in mind, my overall goals are to determine if the data is valuable to a specific research question. My specific objectives are to 1) understand the nature of the data in hand and 2) evaluate the data potential for yielding insight, such as in models for inference or prediction relevant to the research question.  
 Examples of a broad research questions would be: 
 - What factors influence sales of our companies product?
