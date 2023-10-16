@@ -43,13 +43,13 @@ b.  Bivariate Analysis: Begin to look at associations/relationships between vari
 
 Several methods are valuable in EDA to describe: 
 
-*Data Distributions:*  
+*Data Distributions*  
 What type of distribution does each variable's values follow?  To understand this we can calculate the mean, standard deviation and quartile values for numeric variables. Histograms, frequency plots, and probability density plots are all useful here to visualize the data.
 
 *Relationships*  
 We hope to find underlying relationships when we perform EDA.  To that end, numeric methods that describe relationships such as correlation, covariance, are helpful. To visualize these relationships across numeric variables we can use scatterplots. Cross tabulations can provide insight into potential associations for categorical data.  Boxplots that show differences in response variables by categorical variables can also help visualize potential differences in responses varaibles at different levels of categorical variables. 
 
-*Classifications:*  
+*Classifications*  
 We may be interested in classification problems or clustering problems, and as such, understanding frequencies of observations by classification factors is helpful. 
 
 ##  Things to look for...
